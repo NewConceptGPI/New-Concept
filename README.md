@@ -40,7 +40,7 @@ Sprint | Previsão | Status| Histórico|
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
-[![SPRINT 1]()](https://youtu.be/CAnTPUtG9QY?si=EYhcqPU9KWGk3Gmp)
+[![SPRINT 1](https://i9.ytimg.com/vi/CAnTPUtG9QY/mqdefault.jpg?sqp=CNCBjLEG-oaymwEmCMACELQB8quKqQMa8AEB-AG-B4AC0AWKAgwIABABGBMgPSh_MA8=&rs=AOn4CLBS0nTutKziUQcO45E0okKctPXlOw)](https://youtu.be/CAnTPUtG9QY?si=EYhcqPU9KWGk3Gmp)
 
 
 ## Sprint 2
@@ -52,6 +52,14 @@ Sprint | Previsão | Status| Histórico|
 
 ## Tecnologias Utilizadas
 ### Produto 
+* Sprint 1
+ > Análise de Swot
+* Sprint 2
+ > Previsão de Demanda
+* Sprint 3
+ > A Fazer
+* Sprint 4
+ > A Fazer
 
 
 ### Tecnológias Específicas/Apoio
@@ -76,6 +84,13 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Autores
-| Função | Nome |  LinkedIn & GitHub |
+| Função | Nome |  GitHub |
 | - | - | - |
+|Product Owner| Rebecca Ribeiro Campos |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Scrum Master| Fernando dos Santos Ribeiro |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Matheus de Oliveira Fuliene |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Cauã Vinicius da Silva Nunes |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Thiago Oliveira Lopes de Moraes |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Vitor Augusto Soares Santos | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+
 
