@@ -18,7 +18,7 @@ Consultoria para a empresa Doce Sabor
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 15/03/2024 | concluido| [Ver Relatório]() | 
-|Sprint 01| 14/04/2024 | concluido | [Ver Relatório](https://www.canva.com/design/DAGB9tkpi0o/4CqSF12TviCeeA0cub7YBA/edit) | 
+|Sprint 01| 14/04/2024 | concluido | [Ver Relatório](https://youtu.be/CAnTPUtG9QY?si=EYhcqPU9KWGk3Gmp) | 
 |Sprint 02| 05/05/2024 | pendente |[Ver Relatório]() | 
 |Sprint 03| 26/05/2024 | pendente|[Ver Relatório]() | 
 |Sprint 04| 16/06/2024 | pendente |[Ver Relatório]() |
