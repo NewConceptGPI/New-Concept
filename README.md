@@ -19,7 +19,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 15/03/2024 | concluido| [Ver Relatório](https://youtu.be/CAnTPUtG9QY?si=EYhcqPU9KWGk3Gmp) | 
 |Sprint 01| 14/04/2024 | concluido | [Ver Relatório](https://youtu.be/CAnTPUtG9QY?si=EYhcqPU9KWGk3Gmp) | 
-|Sprint 02| 05/05/2024 | concluido |[Ver Relatório]() | 
+|Sprint 02| 05/05/2024 | concluido |[Ver Relatório](https://www.youtube.com/watch?v=6TX5kw_3K64) | 
 |Sprint 03| 26/05/2024 | pendente|[Ver Relatório]() | 
 |Sprint 04| 16/06/2024 | pendente |[Ver Relatório]() |
 |Feira de Soluções | 27/06/2024 | pendente |[Ver Relatório]() | 
