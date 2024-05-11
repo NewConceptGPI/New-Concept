@@ -17,9 +17,9 @@ Consultoria para a empresa Doce Sabor
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 15/03/2024 | concluido| [Ver Relatório]() | 
+|Kick Off | 15/03/2024 | concluido| [Ver Relatório](https://youtu.be/CAnTPUtG9QY?si=EYhcqPU9KWGk3Gmp) | 
 |Sprint 01| 14/04/2024 | concluido | [Ver Relatório](https://youtu.be/CAnTPUtG9QY?si=EYhcqPU9KWGk3Gmp) | 
-|Sprint 02| 05/05/2024 | pendente |[Ver Relatório]() | 
+|Sprint 02| 05/05/2024 | concluido |[Ver Relatório]() | 
 |Sprint 03| 26/05/2024 | pendente|[Ver Relatório]() | 
 |Sprint 04| 16/06/2024 | pendente |[Ver Relatório]() |
 |Feira de Soluções | 27/06/2024 | pendente |[Ver Relatório]() | 
@@ -40,10 +40,11 @@ Sprint | Previsão | Status| Histórico|
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
-[![SPRINT 1](https://i9.ytimg.com/vi/CAnTPUtG9QY/mqdefault.jpg?sqp=CNCBjLEG-oaymwEmCMACELQB8quKqQMa8AEB-AG-B4AC0AWKAgwIABABGBMgPSh_MA8=&rs=AOn4CLBS0nTutKziUQcO45E0okKctPXlOw)](https://youtu.be/CAnTPUtG9QY?si=EYhcqPU9KWGk3Gmp)
+[![SPRINT 1](https://i.ytimg.com/vi/CAnTPUtG9QY/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBvgeAAtAFigIMCAAQARgTID0ofzAP&rs=AOn4CLABpsjEQboiTb-XE8rJ8cz31rKQkA)](https://youtu.be/CAnTPUtG9QY?si=EYhcqPU9KWGk3Gmp)
 
 
 ## Sprint 2
+[![SPRINT 2](https://i.ytimg.com/vi/6TX5kw_3K64/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBvgeAAtAFigIMCAAQARgTIDoofzAP&rs=AOn4CLBI29KNCUGkXGHIEoRFLpVHoee9yQ)](https://www.youtube.com/watch?v=6TX5kw_3K64)
 
 ## Sprint 3
 
@@ -57,7 +58,7 @@ Sprint | Previsão | Status| Histórico|
 * Sprint 2
  > Previsão de Demanda
 * Sprint 3
- > A Fazer
+ > Curva ABC
 * Sprint 4
  > A Fazer
 
