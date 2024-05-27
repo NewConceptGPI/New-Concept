@@ -20,7 +20,7 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 15/03/2024 | concluido| [Ver Relatório](https://youtu.be/CAnTPUtG9QY?si=EYhcqPU9KWGk3Gmp) | 
 |Sprint 01| 14/04/2024 | concluido | [Ver Relatório](https://youtu.be/CAnTPUtG9QY?si=EYhcqPU9KWGk3Gmp) | 
 |Sprint 02| 05/05/2024 | concluido |[Ver Relatório](https://www.youtube.com/watch?v=6TX5kw_3K64) | 
-|Sprint 03| 26/05/2024 | pendente|[Ver Relatório]() | 
+|Sprint 03| 26/05/2024 | concluido|[Ver Relatório](https://www.youtube.com/watch?v=LRa5UEphDFY) | 
 |Sprint 04| 16/06/2024 | pendente |[Ver Relatório]() |
 |Feira de Soluções | 27/06/2024 | pendente |[Ver Relatório]() | 
 
@@ -47,7 +47,7 @@ Sprint | Previsão | Status| Histórico|
 [![SPRINT 2](https://i.ytimg.com/vi/6TX5kw_3K64/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBvgeAAtAFigIMCAAQARgTIDoofzAP&rs=AOn4CLBI29KNCUGkXGHIEoRFLpVHoee9yQ)](https://www.youtube.com/watch?v=6TX5kw_3K64)
 
 ## Sprint 3
-
+[![SPRINT 2](https://i.ytimg.com/vi/LRa5UEphDFY/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBvgeAAtAFigIMCAAQARgTID0ofzAP&rs=AOn4CLBTnWSCh20VK__5y4X8HB2iTbLRIQ)](https://www.youtube.com/watch?v=LRa5UEphDFY)
 
 ## Sprint 4
 
