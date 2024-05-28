@@ -9,7 +9,8 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
-* [Competências Desenvolvidas](#competências-desenvolvidas)
+* [Backlog](#backlog)
+* [Burndown](#burndown)
 * [Autores](#autores)
 
 # Projeto (API) 
@@ -79,7 +80,15 @@ Sprint | Previsão | Status| Histórico|
 
 
 
-# Competências desenvolvidas
+## Backlog do produto
+<p align="center">
+ <img src="https://github.com/vhcsjc/API-CONSULTORIA_INOVAMAIS/blob/main/Sprint%201/imagem/WhatsApp%20Image%202023-12-02%20at%2016.55.10.jpeg" width="80%"/>
+</p>
+
+## Burndown
+<p align="center">
+ <img src="https://github.com/vhcsjc/API-CONSULTORIA_INOVAMAIS/blob/main/Sprint%201/imagem/WhatsApp%20Image%202023-12-02%20at%2016.55.11.jpeg" width="80%"/>
+</p>
 
 
 
