@@ -61,7 +61,7 @@ Sprint | Previsão | Status| Histórico|
 * Sprint 3
  > Curva ABC
 * Sprint 4
- > A Fazer
+ > Canva
 
 
 ### Tecnológias Específicas/Apoio
