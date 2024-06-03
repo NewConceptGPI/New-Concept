@@ -82,7 +82,7 @@ Sprint | Previsão | Status| Histórico|
 
 ## Backlog do produto
 <p align="center">
- <img src=""/>
+ <img src="![WhatsApp Image 2024-06-03 at 19 51 29 (1)](https://github.com/NewConceptGPI/New-Concept/assets/167457901/6d6429ec-7197-4478-9e77-d2b2394e3c9c)"/>
 </p>
 
 ## Burndown
