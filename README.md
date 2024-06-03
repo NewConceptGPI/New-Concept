@@ -82,7 +82,7 @@ Sprint | Previsão | Status| Histórico|
 
 ## Backlog do produto
 <p align="center">
- <img src="https://github.com/vhcsjc/API-CONSULTORIA_INOVAMAIS/blob/main/Sprint%201/imagem/WhatsApp%20Image%202023-12-02%20at%2016.55.10.jpeg" width="80%"/>
+ <img src=""/>
 </p>
 
 ## Burndown
