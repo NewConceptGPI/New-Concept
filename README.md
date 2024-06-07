@@ -82,7 +82,7 @@ Sprint | Previsão | Status| Histórico|
 
 ## Backlog do produto
 <p align="center">
- <img src="C:\Users\Inspiron\Pictures\c812636b-e4df-43d9-9118-93e31f9f5539.jpeg" width="80%"/>
+ <img src="https://github.com/NewConceptGPI/New-Concept/assets/167457901/cea1ec97-2094-4a83-8a15-8e514cb66886.jpeg" width="80%"/>
 </p>
 
 ## Burndown
