@@ -82,7 +82,7 @@ Sprint | Previsão | Status| Histórico|
 
 ## Backlog do produto
 <p align="center">
- <img src="https://web.whatsapp.com/c812636b-e4df-43d9-9118-93e31f9f5539.jpeg" width="80%"/>
+ <img src="C:\Users\Inspiron\Pictures\c812636b-e4df-43d9-9118-93e31f9f5539.jpeg" width="80%"/>
 </p>
 
 ## Burndown
