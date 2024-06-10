@@ -7,8 +7,6 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 * [Projeto (API)](#projeto-api)
 * [Equipe](#equipe)
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
 * [Backlog](#backlog)
 * [Burndown](#burndown)
 * [Autores](#autores)
@@ -35,10 +33,6 @@ Sprint | Previsão | Status| Histórico|
 
 
 
-# Objetivo do Projeto
-
-
-# Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
 [![SPRINT 1](https://i.ytimg.com/vi/CAnTPUtG9QY/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBvgeAAtAFigIMCAAQARgTID0ofzAP&rs=AOn4CLABpsjEQboiTb-XE8rJ8cz31rKQkA)](https://youtu.be/CAnTPUtG9QY?si=EYhcqPU9KWGk3Gmp)
