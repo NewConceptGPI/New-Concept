@@ -64,19 +64,7 @@ Sprint | Previsão | Status| Histórico|
  > Canva
 
 
-### Tecnológias Específicas/Apoio
 
-  
-## Sprint 1 - Concepção
-
-
-## Sprint 2 - Desenvolvimento do Projeto
-
-      
-## Sprint 3 - Implementação
-
-      
-## Sprint 4 - Operacionalização
 
 
 
