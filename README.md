@@ -75,7 +75,7 @@ Sprint | Previsão | Status| Histórico|
 
 ## Burndown
 <p align="center">
- <img src="https://github.com/vhcsjc/API-CONSULTORIA_INOVAMAIS/blob/main/Sprint%201/imagem/WhatsApp%20Image%202023-12-02%20at%2016.55.11.jpeg" width="80%"/>
+ <img src="https://github.com/NewConceptGPI/New-Concept/assets/167457901/ba599cfd-c2c4-410c-b24c-ac60bae977d9.jpeg" width="80%"/>
 </p>
 
 
