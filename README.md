@@ -21,7 +21,7 @@ Sprint | Previsão | Status| Histórico|
 |Sprint 02| 05/05/2024 | concluido |[Ver Relatório](https://www.youtube.com/watch?v=6TX5kw_3K64) | 
 |Sprint 03| 26/05/2024 | concluido|[Ver Relatório](https://www.youtube.com/watch?v=LRa5UEphDFY) | 
 |Sprint 04| 16/06/2024 | concluido |[Ver Relatório](https://www.youtube.com/watch?v=FeKGoukpx10) |
-|Feira de Soluções | 27/06/2024 | pendente |[Ver Relatório]() | 
+|Feira de Soluções | 27/06/2024 | concluido |[Ver Relatório]() | 
 
 
 # Equipe
